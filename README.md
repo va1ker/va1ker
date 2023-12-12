@@ -15,7 +15,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" href="https://developer.mozilla.org/en-US/docs/Web/HTML" width=50px height=50px>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" width=50px height=50px>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" href="https://getbootstrap.com/" width=50px height=50px>
-  <img src="ttps://static.djangoproject.com/img/logos/django-logo-negative.png" href="https://www.djangoproject.com/" width=50px height=50px>
+  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" href="https://www.djangoproject.com/" width=50px height=50px>
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Django-REST.png" href="https://www.django-rest-framework.org/" width=50px height=50px>
   <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" href="https://fastapi.tiangolo.com/" width=50px height=50px>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" href="https://www.postgresql.org/" width=50px height=50px>
