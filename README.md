@@ -28,4 +28,4 @@
 
 ## Что-то еще
 
-Буду рад обсудить любые идеи, проекты или просто пообщаться! Доступен для связи в <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" href="https://t.me/comevisitmeinhell" width=50px height=50px>
+Буду рад обсудить любые идеи, проекты или просто пообщаться! Доступен для связи в <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" href="https://t.me/comevisitmeinhell" width=25px height=25px>
