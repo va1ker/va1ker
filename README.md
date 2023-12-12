@@ -8,10 +8,11 @@
 
 ## Мой стек
 Мой технологический стек включает в себя:
-- Языки программирования: [Python, Javascript]
-- Фреймворки: [Django, FastAPI, Django REST]
+- [![](https://www.python.org/static/img/python-logo.png)](https://www.python.org/)
+- [![Языки программирования](ссылка_на_изображение_языков)](ссылка_на_страницу_с_языками)
+- [![](https://static.djangoproject.com/img/logos/django-logo-negative.png)](https://www.djangoproject.com/)
 - Базы данных: [PostgreSQL]
-- Инструменты и технологии: [Poetry, Git, Docker]
+- Инструменты и технологии: [Poetry, Git, Docker, Bootstrap, HTML, Css]
 
 ## Что-то еще
 
