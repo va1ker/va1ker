@@ -8,11 +8,8 @@
 
 ## Мой стек
 Мой технологический стек включает в себя:
-- [![](https://www.python.org/static/img/python-logo.png)](https://www.python.org/)
-- [![Языки программирования](ссылка_на_изображение_языков)](ссылка_на_страницу_с_языками)
-- [![](https://static.djangoproject.com/img/logos/django-logo-negative.png)](https://www.djangoproject.com/)
-- Базы данных: [PostgreSQL]
-- Инструменты и технологии: [Poetry, Git, Docker, Bootstrap, HTML, Css]
+- [<img src="https://en.wikipedia.org/wiki/File:Python-logo-notext.svg#/media/File:Python_logo_and_wordmark.svg" width="100" height="100">](https://www.python.org/)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="100" height="100">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Что-то еще
 
