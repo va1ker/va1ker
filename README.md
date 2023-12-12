@@ -1,15 +1,27 @@
 # Профиль [va1ker]
-
+<head>
+  <style>
+    div > img {
+      width: 100px;
+      height: 100px;
+    }
+  </style>
+</head>
 ## Кто я
-Привет! Я [va1ker], разработчик со страстью к созданию инновационных решений и исследованию новых технологий. Моё стремление - расширять горизонты в программировании и принимать вызовы, которые требуют творческого подхода.
+Привет! Я [va1ker](https://github.com/va1ker), разработчик со страстью к созданию инновационных решений и исследованию новых технологий. Моё стремление - расширять горизонты в программировании и принимать вызовы, которые требуют творческого подхода.
 
 ## Био
 Мой опыт включает работу над различными проектами, где я учусь новым языкам и технологиям. Я стараюсь постоянно улучшать свои знания и навыки, готов к новым вызовам и возможностям для развития.
 
 ## Мой стек
 Мой технологический стек включает в себя:
-- [<img src="https://en.wikipedia.org/wiki/File:Python-logo-notext.svg#/media/File:Python_logo_and_wordmark.svg" width="100" height="100">](https://www.python.org/)
-- [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="100" height="100">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<div>
+  [<img src="https://cdn-icons-png.flaticon.com/512/919/919852.png">](https://www.python.org/)
+  [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [<img src="https://cdn-icons-png.flaticon.com/512/4926/4926625.png">](https://github.com/va1ker)
+  []
+</div>
+
 
 ## Что-то еще
 
