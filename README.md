@@ -1,12 +1,12 @@
-# Профиль [va1ker]
-## Кто я
-Привет! Я [va1ker](https://github.com/va1ker), разработчик со страстью к созданию инновационных решений и исследованию новых технологий. Моё стремление - расширять горизонты в программировании и принимать вызовы, которые требуют творческого подхода.
+# Profile of [va1ker](https://github.com/va1ker)
+## Who i am
+Hi! I'm [va1ker](https://github.com/va1ker), a developer with a passion for creating innovative solutions and exploring new technologies. My ambition is to expand my programming horizons and take on challenges that require creativity.
 
-## Био
-Мой опыт включает работу над различными проектами, где я учусь новым языкам и технологиям. Я стараюсь постоянно улучшать свои знания и навыки, готов к новым вызовам и возможностям для развития.
+## Bio
+My experience includes working on various projects where I learn new languages and technologies. I try to constantly improve my knowledge and skills, ready for new challenges and opportunities for development.
 
 ## Мой стек
-Мой технологический стек включает в себя:
+My technology stack includes:
 <div style="display: flex; background:">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919852.png" href="https://www.python.org/" width=50px height=50px>
   <img src="https://cdn-icons-png.flaticon.com/512/4926/4926625.png" href="https://github.com/va1ker" width=50px height=50px> 
@@ -22,10 +22,9 @@
   <img src="https://python-poetry.org/images/logo-origami.svg" href="https://python-poetry.org/" width=50px height=50px>
   <img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" href="https://docs.celeryq.dev/en/stable/getting-started/introduction.html" width=50px height=50px>
   <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" href="https://redis.io/" width=50px height=50px>
-  
 </div>
 
 
-## Что-то еще
+## Something more
 
-Буду рад обсудить любые идеи, проекты или просто пообщаться! Доступен для связи в <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" href="https://t.me/comevisitmeinhell" width=25px height=25px>
+I'd be happy to discuss any ideas, projects or just to chat! Available for contact in <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" href="https://t.me/comevisitmeinhell" width=25px height=25px>
