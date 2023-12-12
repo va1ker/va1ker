@@ -7,10 +7,10 @@
 
 ## Мой стек
 Мой технологический стек включает в себя:
-<div>
-  [<img src="https://cdn-icons-png.flaticon.com/512/919/919852.png" width=100px height=100px>](https://www.python.org/)
-  [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width=100px height=100px>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [<img src="https://cdn-icons-png.flaticon.com/512/4926/4926625.png" width=100px height=100px> ](https://github.com/va1ker)
+<div style="display: flex;>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919852.png" href="https://www.python.org/" width=100px height=100px>
+  [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" width=100px height=100px>]
+  [<img src="https://cdn-icons-png.flaticon.com/512/4926/4926625.png" href="https://github.com/va1ker" width=100px height=100px> ]
 </div>
 
 
