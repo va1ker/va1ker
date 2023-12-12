@@ -14,15 +14,15 @@
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" href="https://developer.mozilla.org/en-US/docs/Web/HTML" width=50px height=50px>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" href="https://developer.mozilla.org/en-US/docs/Web/HTML" width=50px height=50px>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" width=50px height=50px>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968671.png" href="https://getbootstrap.com/" width=50px height=50px>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" href="https://getbootstrap.com/" width=50px height=50px>
   <img src="ttps://static.djangoproject.com/img/logos/django-logo-negative.png" href="https://www.djangoproject.com/" width=50px height=50px>
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Django-REST.png" href="https://www.django-rest-framework.org/" width=50px height=50px>
   <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" href="https://fastapi.tiangolo.com/" width=50px height=50px>
-  <img src="https://cdn-icons-png.flaticon.com/512/10464/10464247.png" href="https://www.postgresql.org/" width=50px height=50px>
+  <img src="https://cdn-icons-png.flaticon.com/512/10464/10464288.png" href="https://www.postgresql.org/" width=50px height=50px>
   <img src="https://python-poetry.org/images/logo-origami.svg" href="https://python-poetry.org/" width=50px height=50px>
   <img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" href="https://docs.celeryq.dev/en/stable/getting-started/introduction.html" width=50px height=50px>
   <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" href="https://redis.io/" width=50px height=50px>
-  <img src="https://www.sqlalchemy.org/img/sqla_logo.png" href="https://docs.sqlalchemy.org/en/20/core/type_basics.html" width=50px height=50px>
+  <img src="https://www.sqlalchemy.org/img/sqla_logo.png" href="https://docs.sqlalchemy.org/en/20/core/type_basics.html" width=100px height=50px>
   
 </div>
 
