@@ -5,7 +5,7 @@ Hi! I'm [va1ker](https://github.com/va1ker), a developer with a passion for crea
 ## Bio
 My experience includes working on various projects where I learn new languages and technologies. I try to constantly improve my knowledge and skills, ready for new challenges and opportunities for development.
 
-## Мой стек
+## My stack
 My technology stack includes:
 <div style="display: flex; background:">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919852.png" href="https://www.python.org/" width=50px height=50px>
