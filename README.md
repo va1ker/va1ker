@@ -7,7 +7,7 @@
 
 ## Мой стек
 Мой технологический стек включает в себя:
-<div style="display: flex;">
+<div style="display: flex; background:">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919852.png" href="https://www.python.org/" width=50px height=50px>
   <img src="https://cdn-icons-png.flaticon.com/512/4926/4926625.png" href="https://github.com/va1ker" width=50px height=50px> 
   <img src="https://cdn-icons-png.flaticon.com/512/5969/5969124.png" href="https://www.docker.com/" width=50px height=50px>
@@ -22,7 +22,6 @@
   <img src="https://python-poetry.org/images/logo-origami.svg" href="https://python-poetry.org/" width=50px height=50px>
   <img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" href="https://docs.celeryq.dev/en/stable/getting-started/introduction.html" width=50px height=50px>
   <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" href="https://redis.io/" width=50px height=50px>
-  <img src="https://www.sqlalchemy.org/img/sqla_logo.png" href="https://docs.sqlalchemy.org/en/20/core/type_basics.html" width=100px height=50px>
   
 </div>
 
